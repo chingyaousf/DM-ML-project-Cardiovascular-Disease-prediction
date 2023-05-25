@@ -9,6 +9,8 @@
 
 #### Data Description
 
+-    <https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset>
+
 -   The dataset consists of 70,000 records of patients data, 12 features + target. There are 3 types of input features: Objective: Factual information Examination: Results of medical examination Subjective: Information given by the patient
 
 #### Evaluation and Result
