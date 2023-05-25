@@ -20,6 +20,7 @@ Subjective: Information given by the patient
 
 
 Evaluation and Result
+
  	Accuracy	Precision	Recall	F1_score
 Decision Tree	0.7152380952380952	0.7692662667281956	0.626220886551465	0.6904120936011596
 Random Forest	0.7327129735735352	0.7268359965139922	0.7268359965139922	0.7242084554595015
@@ -38,6 +39,7 @@ In contrast, cancer was responsible for an estimated 9.6 million deaths in the s
 
 
 Costs of CVD in U.S.?
+
 “In 2016, CVD cost America $555 billion. By 2035, the cost will skyrocket to $1.1 trillion.”
 
 Cardiovascular disease not only exacts a heavy toll on the health of Americans, its economic burden is enormous. It is America’s costliest disease, and it will soar in the coming decades.  
@@ -53,10 +55,12 @@ Treatment planning : AI can help healthcare providers develop personalized treat
 
 
 Example
+
 Journal The Lancet Digital Health in 2017 found that a machine learning algorithm was able to accurately predict cardiovascular events. 
 Using machine learning for routine clinical data of 378,256 patients from UK  in risk prediction could lead to cost savings save £132 million over ten years in UK.
 
 References
+
 CARDIOVASCULAR DISEASE: A COSTLY BURDEN FOR AMERICA PROJECTIONS THROUGH 2035. (2017). American Heart Association. Retrieved April 21, 2023, from https://www.heart.org/-/media/Files/About-Us/Policy-Research/Fact-Sheets/Public-Health-Advocacy-and-Research/CVD-A-Costly-Burden-for-America-Projections-Through-2035.pdf
 Weng, S., Reps, J., Kai, J., Garibaldi, J. M., & Qureshi, N. (2017). Can machine-learning improve cardiovascular risk prediction using routine clinical data? PLOS ONE, 12(4), e0174944. https://doi.org/10.1371/journal.pone.0174944
 World Health Organization: WHO. (2019a). Cancer. www.who.int. https://www.who.int/health-topics/cancer#tab=tab_1
