@@ -67,4 +67,4 @@
 
 #### Blog
 
-[https://wordpress.com/post/ssidmarine.wordpress.com/593]
+https://wordpress.com/post/ssidmarine.wordpress.com/593
