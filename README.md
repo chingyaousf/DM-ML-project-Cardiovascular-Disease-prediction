@@ -64,3 +64,7 @@
 -   World Health Organization: WHO. (2019a). Cancer. www.who.int. <https://www.who.int/health-topics/cancer#tab=tab_1>
 
 -   World Health Organization: WHO. (2021, June 11). Cardiovascular diseases (CVDs). www.who.int. Retrieved April 21, 2023, from [https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)){.uri}
+
+#### Blog
+
+[https://wordpress.com/post/ssidmarine.wordpress.com/593]
