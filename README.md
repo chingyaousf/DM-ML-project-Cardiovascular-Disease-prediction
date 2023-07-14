@@ -67,4 +67,4 @@
 
 #### Blog
 
-https://wordpress.com/post/ssidmarine.wordpress.com/593
+https://ssidmarine.wordpress.com/2023/07/03/cardiovascular-disease-prediction-using-machine-learning-in-python/
