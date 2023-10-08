@@ -4,30 +4,39 @@
 
 #### Question: AI in CVD -- Feasibility and Benefits ?
 
--   Risk prediction and prevention Effective risk detection and prevention.
+-   Effective risk detection and prevention.
 
--   Personalized medicine and Treatment planning Develop personalized treatment plans for patients with cardiovascular disease,\
-    taking into account individual patient characteristics and medical history.
+-   Personalized medicine and Treatment planning.
+
+-   Public health interventions.
 
 #### Data Description
 
--    <https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset>
+-   <https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset>
 
--   The dataset consists of 70,000 records of patients data, 12 features + target. There are 3 types of input features: Objective: Factual information Examination: Results of medical examination Subjective: Information given by the patient
+-   The dataset consists of 70,000 records of patients data, 12 features + target. There are 3 types of input features:
+
+    Objective: Factual information
+
+    Examination: Results of medical examination
+
+    Subjective: Information given by the patient
 
 #### Evaluation and Result
 
--    Accuracy Precision Recall F1_score
+-   Accuracy Precision Recall F1_score
 
-    DecisionTree 0.715 0.769 0.626 0.6904
+```         
+DecisionTree 0.715 0.769 0.626 0.6904
 
-    **Random Forest 0.733 0.727 0.727 0.724**
+**Random Forest 0.733 0.727 0.727 0.724**
 
-    KNN 0.682 0.682 0.682 0.682
+KNN 0.682 0.682 0.682 0.682
 
-    NN 0.618 0.701 0.618 0.570
+NN 0.618 0.701 0.618 0.570
 
-    Naïve Bayes 0.586 0.642 0.586 0.537
+Naïve Bayes 0.586 0.642 0.586 0.537
+```
 
 **Random Forest wins!**
 
@@ -67,4 +76,4 @@
 
 #### Blog
 
-https://ssidmarine.wordpress.com/2023/07/03/cardiovascular-disease-prediction-using-machine-learning-in-python/
+<https://ssidmarine.wordpress.com/2023/07/03/cardiovascular-disease-prediction-using-machine-learning-in-python/>
